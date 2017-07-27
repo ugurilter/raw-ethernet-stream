@@ -1,3 +1,10 @@
+.cproject
+.mymd.c.swp
+.project
+.settings
+Debug/
+bira_gobegi.mp3
+
 # Prerequisites
 *.d
 
